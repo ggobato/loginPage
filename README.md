@@ -1,4 +1,4 @@
-# loginPage
+# telaCadastro
 uma página de cadastro e listagem de usuários básica com frontend em React e backend com Node.js
 
 -**Frontend:** Interface criada com React
